@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-# MaviosCrochet Backend API
+# Motor E-Commerce Headless — API Backend
 
 **API Web Quarkus de Alto Rendimiento usando Monolito Modular y Arquitectura Limpia**
 
@@ -18,7 +18,7 @@
 
 ## 🚀 Descripción General
 
-Este es el API web backend de MaviosCrochet, construido usando **Quarkus (el Framework Java Supersónico y Subatómico)**. Maneja las reglas de negocio del e-commerce, creación de órdenes, inventario de doble entrada, descuentos con cupones, cálculos seguros de envío y procesamiento de marcas de agua en patrones digitales.
+Este es el API web backend del motor de e-commerce headless, construido usando **Quarkus (el Framework Java Supersónico y Subatómico)**. Maneja las reglas de negocio del e-commerce, creación de órdenes, inventario de doble entrada, descuentos con cupones, cálculos seguros de envío y procesamiento de marcas de agua en patrones digitales.
 
 El backend está estructurado como un **Monolito Modular** para mantener la compilación rápida, el despliegue simple y los módulos altamente desacoplados, permitiendo que puedan migrar fácilmente a microservicios en el futuro si es necesario.
 

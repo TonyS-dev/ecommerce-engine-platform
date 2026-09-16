@@ -1,8 +1,8 @@
 <div style="text-align: center;">
 
-# MaviosCrochet
+# Headless E-Commerce Platform
 
-**White-Label E-Commerce Engine & Full-Stack Platform (PostgreSQL, MongoDB, Redis, Keycloak, Traefik, Grafana, Prometheus)**
+**White-Label E-Commerce Engine & Full-Stack Distributed Architecture (Java 21, Quarkus, PostgreSQL, MongoDB, Redis, Keycloak, Traefik, Grafana, Prometheus)**
 
 
 [![Backend: Java Quarkus](https://img.shields.io/badge/Quarkus-3.31.1-FF7828?logo=quarkus)](https://quarkus.io/) 
@@ -14,12 +14,15 @@
 </div>
 
 > 🌐 **[Versión en español (README_ES.md)](README_ES.md)**
+>
+> 🛍️ **Production Reference Implementation (Live Storefront):** [www.mavioscrochet.com](https://www.mavioscrochet.com)  
+> *Note: This repository contains the platform architecture, technical specifications, and engine documentation. For the commercial storefront, visit the link above.*
 
 ---
 
 ## 🚀 Overview
 
-MaviosCrochet is a premium full-stack e-commerce platform built on **Pragmatic DDD (Domain-Driven Design)**, **Repository Pattern**, and **Clean Architecture**, adhering strictly to **SOLID** and **DRY** principles. 
+This repository contains the architecture and engineering specifications of an enterprise white-label e-commerce platform built on **Pragmatic DDD (Domain-Driven Design)**, **Repository Pattern**, and **Clean Architecture**, adhering strictly to **SOLID** and **DRY** principles. 
 
 The system features an **RFC 7807 compliant error handling** schema (Problem Details) and a pluggable integration layer designed via **Interface Segregation** — ensuring that payment gateways (Wompi, PayPal), cloud storage (Cloudinary), geolocation (Mapbox), shipping (Envía), and OAuth providers (Google) are completely swappable without modifications to the core business logic. 
 
